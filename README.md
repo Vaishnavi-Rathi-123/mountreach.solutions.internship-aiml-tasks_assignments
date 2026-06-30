@@ -26,9 +26,8 @@ The content includes structured programming exercises and practice work in the d
 
 ## ⚙️ Tools and Technologies
 - Python
-- NumPy
+- Python Libraries
 - Google Colab
-- GitHub
 
 ---
 
